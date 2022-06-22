@@ -75,6 +75,7 @@
     scroll-behavior: smooth;
   }
 }
+.img {border-radius: 5px}
 
 body {
   margin: 0;
